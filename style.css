@@ -50,7 +50,7 @@ header ul li a:hover {
 }
 .banner {
 	height: 60vh;
-	background-image: url('../img/banner.jpg');
+	background-image: url('banner.jpg');
 	position: relative;
 	display: flex;
 	justify-content: center;
